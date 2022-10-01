@@ -1,2 +1,3 @@
 My second commit
-Learning how to code
+Learning how to code well
+
